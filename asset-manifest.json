@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vkiskbot/zakupi.github.io.git/static/css/main.4d181329.chunk.css",
-    "main.js": "/vkiskbot/zakupi.github.io.git/static/js/main.c4b74ba0.chunk.js",
-    "main.js.map": "/vkiskbot/zakupi.github.io.git/static/js/main.c4b74ba0.chunk.js.map",
-    "runtime-main.js": "/vkiskbot/zakupi.github.io.git/static/js/runtime-main.69470644.js",
-    "runtime-main.js.map": "/vkiskbot/zakupi.github.io.git/static/js/runtime-main.69470644.js.map",
-    "static/css/2.27cde75d.chunk.css": "/vkiskbot/zakupi.github.io.git/static/css/2.27cde75d.chunk.css",
-    "static/js/2.c33d1468.chunk.js": "/vkiskbot/zakupi.github.io.git/static/js/2.c33d1468.chunk.js",
-    "static/js/2.c33d1468.chunk.js.map": "/vkiskbot/zakupi.github.io.git/static/js/2.c33d1468.chunk.js.map",
-    "index.html": "/vkiskbot/zakupi.github.io.git/index.html",
-    "precache-manifest.140d2fca6f77bd4a0a9f0e0a55a4fc77.js": "/vkiskbot/zakupi.github.io.git/precache-manifest.140d2fca6f77bd4a0a9f0e0a55a4fc77.js",
-    "service-worker.js": "/vkiskbot/zakupi.github.io.git/service-worker.js",
-    "static/css/2.27cde75d.chunk.css.map": "/vkiskbot/zakupi.github.io.git/static/css/2.27cde75d.chunk.css.map",
-    "static/css/main.4d181329.chunk.css.map": "/vkiskbot/zakupi.github.io.git/static/css/main.4d181329.chunk.css.map"
+    "main.css": "/vkiskbot/zakupi.github.io/static/css/main.4d181329.chunk.css",
+    "main.js": "/vkiskbot/zakupi.github.io/static/js/main.c4b74ba0.chunk.js",
+    "main.js.map": "/vkiskbot/zakupi.github.io/static/js/main.c4b74ba0.chunk.js.map",
+    "runtime-main.js": "/vkiskbot/zakupi.github.io/static/js/runtime-main.3404bd8e.js",
+    "runtime-main.js.map": "/vkiskbot/zakupi.github.io/static/js/runtime-main.3404bd8e.js.map",
+    "static/css/2.27cde75d.chunk.css": "/vkiskbot/zakupi.github.io/static/css/2.27cde75d.chunk.css",
+    "static/js/2.7d5ca8c2.chunk.js": "/vkiskbot/zakupi.github.io/static/js/2.7d5ca8c2.chunk.js",
+    "static/js/2.7d5ca8c2.chunk.js.map": "/vkiskbot/zakupi.github.io/static/js/2.7d5ca8c2.chunk.js.map",
+    "index.html": "/vkiskbot/zakupi.github.io/index.html",
+    "precache-manifest.60db894b4efc3730ddda49557f5d8ca9.js": "/vkiskbot/zakupi.github.io/precache-manifest.60db894b4efc3730ddda49557f5d8ca9.js",
+    "service-worker.js": "/vkiskbot/zakupi.github.io/service-worker.js",
+    "static/css/2.27cde75d.chunk.css.map": "/vkiskbot/zakupi.github.io/static/css/2.27cde75d.chunk.css.map",
+    "static/css/main.4d181329.chunk.css.map": "/vkiskbot/zakupi.github.io/static/css/main.4d181329.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.69470644.js",
+    "static/js/runtime-main.3404bd8e.js",
     "static/css/2.27cde75d.chunk.css",
-    "static/js/2.c33d1468.chunk.js",
+    "static/js/2.7d5ca8c2.chunk.js",
     "static/css/main.4d181329.chunk.css",
     "static/js/main.c4b74ba0.chunk.js"
   ]
