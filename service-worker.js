@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vkiskbot/zakupi.github.io/precache-manifest.60db894b4efc3730ddda49557f5d8ca9.js"
+  "/vkiskbot/zakupi.github.io/precache-manifest.626cd6e2e2eea1fcd3337f7252c77dd6.js"
 );
 
 self.addEventListener('message', (event) => {
